@@ -4,7 +4,7 @@ This retrieves github starred repos' URLs of a given user and exports them as HT
 
 # Usage
 
-**Tip:** Head over to https://kirtan403.github.io/bookmark-github-stars/ and get started.
+**Tip:** Head over to https://22940dev.github.io/bookmark-github-stars/ and get started.
 
 To use this in a `node`, use `module.js` file, require the module file and use `getAllStarredRepos` function:
 
